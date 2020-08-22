@@ -5,7 +5,7 @@
 
 #### Setting TelegramBot ####
 apikey="1308022779:AAFHFx48r3PCfBn84aW3kfJ-nmTcDfo2iLw" # Api key telegram
-chatid="1322536950" # Chat id telegram 
+chatid="-364451372" # Chat id telegram 
 #############################
 
 DATE_LOG=$(date "+%d %b %Y %H:%M")
